@@ -4,7 +4,7 @@ This repository contains the code and assets for a **personal website** I develo
 
 ## 🚀 Live Website
 
-You can check out the live website here: https://rms.tiiny.site/
+You can check out the live website here: https://raghunandan-ms-portfolio.netlify.app/
 
 ## 👨‍💻 About the Website
 
